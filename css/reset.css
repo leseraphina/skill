@@ -28,3 +28,6 @@ strong, em, address, cite {font-weight:normal; font-style:normal;}
 /*수평선*/
 hr {display:none;}	
 
+/* a */
+a{text-decoration:none;}
+
