@@ -86,4 +86,14 @@ nav>ul>li>a{
 nav .close{}
 
 /* #box01 */
-
+#box01{
+  /* width:auto; */
+  height:calc(100vh - 70px);
+  background-color:green;
+  position:relative;
+}
+#box01>h2{}
+#box01>ul{}
+#box01.no{}
+#box01.prev{}
+#box01.next{}
