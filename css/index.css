@@ -397,3 +397,11 @@ text-indent:15px;
   color:#777;
 }
 /* footer */
+footer{
+  padding:40px 0;
+  background-color:#333;
+  text-align:center;
+  color:#fff;
+  font-size:16px;
+  line-height:1;
+}
