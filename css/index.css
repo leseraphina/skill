@@ -59,7 +59,9 @@ header h1>a{
   color:#fff;
 }
 
-nav{}
+nav{
+
+}
 nav>ul{
   display:flex;
   justify-content:flex-end;
